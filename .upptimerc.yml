@@ -15,17 +15,14 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  # baseUrl: /upptime
+  logoUrl: https://www.seam.co/_next/image?url=%2Fimg%2Fseam-logos%2Fseam-wordmark-s.png&w=1920&q=75
+  name: Seam
+  introTitle: "Seam Status"
+  introMessage: Status of all Seam services. Integration downtime may sometimes be due to third party outage.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Seam Home
+      href: https://seam.co
