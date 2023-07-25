@@ -35,8 +35,8 @@ status-website:
   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.seam.co
+  # baseUrl: /
   logoUrl: https://www.seam.co/_next/image?url=%2Fimg%2Fseam-logos%2Fseam-wordmark-s.png&w=1920&q=75
   name: ""
   introTitle: "Seam Status"
