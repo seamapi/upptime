@@ -3,14 +3,33 @@ owner: seamapi # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Seam API
+  - name: Seam API Overall Health
     url: https://connect.getseam.com/health
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Brivo Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/brivo.sandbox.login
+  - name: Genie Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/genie.sandbox.login
+  - name: Akuvox Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/akuvox.sandbox.login
+  - name: August Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/august.sandbox.login
+  - name: Linear Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/linear.sandbox.login
+  - name: Schlage Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/schlage.sandbox.login
+  - name: Doorking Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/doorking.sandbox.login
+  - name: Genie Login Working on Production Workspaces
+    url: https://connect.getseam.com/health/service/genie.production.login
+  - name: August Login Working on Production Workspaces
+    url: https://connect.getseam.com/health/service/august.production.login
+  - name: Schlage Login Working on Production Workspaces
+    url: https://connect.getseam.com/health/service/schlage.production.login
+  - name: SmartThings Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/smartthings.sandbox.login
+  - name: Seam Relay Admin Login Working on Sandbox Workspaces
+    url: https://connect.getseam.com/health/service/seam_relay_admin.sandbox.login
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
