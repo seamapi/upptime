@@ -3,8 +3,8 @@ owner: seamapi # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Seam API
+    url: https://connect.getseam.com/health
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
