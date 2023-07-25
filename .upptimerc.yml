@@ -38,11 +38,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://www.seam.co/_next/image?url=%2Fimg%2Fseam-logos%2Fseam-wordmark-s.png&w=1920&q=75
-  name: Seam
+  name: ""
   introTitle: "Seam Status"
   introMessage: Status of all Seam services. Integration downtime may sometimes be due to third party outage.
-  navbar:
-    - title: Status
-      href: /
-    - title: Seam Home
-      href: https://seam.co
+  navbar: []
