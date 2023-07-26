@@ -30,7 +30,15 @@ sites:
   - name: Seam Relay Admin Login Working on Sandbox Workspaces
     url: https://connect.getseam.com/health/service/seam_relay_admin.sandbox.login
 
-
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+  
 status-website:
   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
