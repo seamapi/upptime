@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/genie.production.login
-status: down
-code: 500
-responseTime: 112
-lastUpdated: 2023-07-27T22:56:10.169Z
+status: up
+code: 200
+responseTime: 108
+lastUpdated: 2023-07-27T23:02:46.187Z
 startTime: Tue Jul 25 2023 22:58:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
