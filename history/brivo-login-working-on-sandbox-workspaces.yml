@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/brivo.sandbox.login
-status: up
-code: 200
-responseTime: 786
-lastUpdated: 2023-08-25T18:26:31.399Z
+status: down
+code: 503
+responseTime: 760
+lastUpdated: 2023-08-25T19:12:32.957Z
 startTime: Tue Jul 25 2023 22:58:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
