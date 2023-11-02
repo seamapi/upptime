@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/august.production.login
-status: down
-code: 503
-responseTime: 62
-lastUpdated: 2023-11-02T02:36:48.342Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2023-11-02T03:38:09.262Z
 startTime: Tue Jul 25 2023 22:58:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
