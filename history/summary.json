@@ -37,7 +37,7 @@
     "timeMonth": 117,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-03-14": 85,
+      "2024-03-14": 105,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -556,7 +556,7 @@
     "timeMonth": 102,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-03-14": 86,
+      "2024-03-14": 105,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -678,16 +678,16 @@
     "url": "https://connect.getseam.com/health/service/smartthings.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "smart-things-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "97.87%",
-    "uptimeDay": "26.20%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "26.18%",
     "uptimeWeek": "73.94%",
-    "uptimeMonth": "83.76%",
-    "uptimeYear": "97.87%",
+    "uptimeMonth": "83.80%",
+    "uptimeYear": "97.88%",
     "time": 173,
-    "timeDay": 1671,
-    "timeWeek": 542,
-    "timeMonth": 245,
+    "timeDay": 1606,
+    "timeWeek": 537,
+    "timeMonth": 244,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2024-03-14": 51,
@@ -709,7 +709,7 @@
       "2024-02-26": 166,
       "2024-02-24": 712,
       "2024-02-23": 534,
-      "2024-02-22": 286
+      "2024-02-22": 266
     }
   },
   {
