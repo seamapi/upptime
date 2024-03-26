@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/schlage.production.login
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2024-03-26T06:26:13.709Z
+status: down
+code: 503
+responseTime: 57
+lastUpdated: 2024-03-26T07:05:23.521Z
 startTime: Tue Jul 25 2023 22:58:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
