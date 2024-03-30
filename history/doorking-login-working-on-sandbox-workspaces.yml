@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/doorking.sandbox.login
-status: up
-code: 200
-responseTime: 110
-lastUpdated: 2024-03-29T23:03:08.591Z
+status: down
+code: 503
+responseTime: 35
+lastUpdated: 2024-03-30T09:27:04.349Z
 startTime: Tue Jul 25 2023 22:58:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
