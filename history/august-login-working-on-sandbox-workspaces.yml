@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/august.sandbox.login
-status: down
-code: 503
-responseTime: 868
-lastUpdated: 2024-04-03T04:30:18.560Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2024-04-03T06:06:38.895Z
 startTime: Tue Jul 25 2023 22:58:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
