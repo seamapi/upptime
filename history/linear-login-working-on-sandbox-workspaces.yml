@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/linear.sandbox.login
-status: up
-code: 200
-responseTime: 116
-lastUpdated: 2024-04-05T15:36:24.269Z
+status: down
+code: 503
+responseTime: 121
+lastUpdated: 2024-04-05T18:45:10.710Z
 startTime: Tue Jul 25 2023 22:58:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
