@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/smartthings.sandbox.login
-status: up
-code: 200
-responseTime: 77
-lastUpdated: 2024-04-10T23:16:26.891Z
+status: down
+code: 503
+responseTime: 75
+lastUpdated: 2024-04-10T23:29:50.309Z
 startTime: Tue Jul 25 2023 22:58:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
