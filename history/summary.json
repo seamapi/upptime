@@ -37,7 +37,7 @@
     "timeMonth": 222,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-04-22": 1103,
+      "2024-04-22": 1109,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -454,15 +454,15 @@
     "url": "https://connect.getseam.com/health/service/schlage.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "schlage-login-working-on-sandbox-workspaces",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "82.19%",
+    "uptimeDay": "82.17%",
     "uptimeWeek": "83.60%",
     "uptimeMonth": "89.92%",
     "uptimeYear": "98.75%",
     "time": 167,
-    "timeDay": 139,
-    "timeWeek": 121,
+    "timeDay": 150,
+    "timeWeek": 123,
     "timeMonth": 204,
     "timeYear": 167,
     "dailyMinutesDown": {
@@ -495,7 +495,7 @@
       "2024-03-18": 73,
       "2024-03-15": 200,
       "2024-03-14": 165,
-      "2024-03-13": 54
+      "2024-03-13": 46
     }
   },
   {
@@ -579,7 +579,7 @@
     "uptime": "92.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.12%",
+    "uptimeMonth": "32.10%",
     "uptimeYear": "92.22%",
     "time": 155,
     "timeDay": 236,
@@ -587,7 +587,7 @@
     "timeMonth": 143,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-04-22": 1104,
+      "2024-04-22": 1110,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -637,7 +637,7 @@
     "timeMonth": 173,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-04-22": 1104,
+      "2024-04-22": 1110,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -804,15 +804,15 @@
     "url": "https://connect.getseam.com/health/service/smartthings.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "smart-things-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "98.97%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "98.94%",
     "uptimeWeek": "71.68%",
-    "uptimeMonth": "84.59%",
-    "uptimeYear": "98.28%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "98.30%",
     "time": 179,
-    "timeDay": 108,
-    "timeWeek": 221,
+    "timeDay": 111,
+    "timeWeek": 220,
     "timeMonth": 184,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -829,8 +829,7 @@
       "2024-04-11": 614,
       "2024-04-10": 470,
       "2024-04-09": 394,
-      "2024-04-08": 196,
-      "2024-04-07": 114
+      "2024-04-08": 196
     }
   },
   {
