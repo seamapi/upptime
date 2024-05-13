@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/seam_relay_admin.sandbox.login
-status: up
-code: 200
-responseTime: 128
-lastUpdated: 2024-05-12T23:03:00.075Z
+status: down
+code: 503
+responseTime: 276
+lastUpdated: 2024-05-13T22:00:34.413Z
 startTime: Tue Jul 25 2023 22:58:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
