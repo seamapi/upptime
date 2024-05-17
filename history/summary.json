@@ -37,7 +37,7 @@
     "timeMonth": 215,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-05-17": 638,
+      "2024-05-17": 644,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -494,15 +494,15 @@
     "url": "https://connect.getseam.com/health/service/schlage.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "schlage-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "63.61%",
-    "uptimeWeek": "68.80%",
-    "uptimeMonth": "84.16%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "63.58%",
+    "uptimeWeek": "68.79%",
+    "uptimeMonth": "84.30%",
+    "uptimeYear": "98.39%",
     "time": 158,
-    "timeDay": 124,
-    "timeWeek": 160,
+    "timeDay": 120,
+    "timeWeek": 159,
     "timeMonth": 137,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -521,7 +521,7 @@
       "2024-05-03": 236,
       "2024-05-02": 426,
       "2024-05-01": 416,
-      "2024-04-30": 384
+      "2024-04-30": 321
     }
   },
   {
@@ -531,7 +531,7 @@
     "slug": "doorking-login-working-on-sandbox-workspaces",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "80.71%",
+    "uptimeDay": "81.11%",
     "uptimeWeek": "82.22%",
     "uptimeMonth": "88.91%",
     "uptimeYear": "98.47%",
@@ -605,7 +605,7 @@
     "timeMonth": 187,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-17": 638,
+      "2024-05-17": 644,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -680,7 +680,7 @@
     "timeMonth": 187,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-17": 638,
+      "2024-05-17": 644,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -875,7 +875,7 @@
     "status": "up",
     "uptime": "98.19%",
     "uptimeDay": "60.70%",
-    "uptimeWeek": "58.65%",
+    "uptimeWeek": "58.69%",
     "uptimeMonth": "82.34%",
     "uptimeYear": "98.19%",
     "time": 182,
