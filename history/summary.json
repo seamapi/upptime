@@ -37,7 +37,7 @@
     "timeMonth": 215,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-05-17": 938,
+      "2024-05-17": 944,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -493,16 +493,16 @@
     "url": "https://connect.getseam.com/health/service/schlage.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "schlage-login-working-on-sandbox-workspaces",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "61.67%",
-    "uptimeWeek": "68.80%",
-    "uptimeMonth": "84.16%",
+    "uptimeDay": "62.05%",
+    "uptimeWeek": "68.79%",
+    "uptimeMonth": "84.17%",
     "uptimeYear": "98.38%",
     "time": 166,
-    "timeDay": 496,
-    "timeWeek": 245,
-    "timeMonth": 159,
+    "timeDay": 475,
+    "timeWeek": 243,
+    "timeMonth": 158,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2024-05-17": 280,
@@ -520,7 +520,7 @@
       "2024-05-03": 236,
       "2024-05-02": 426,
       "2024-05-01": 416,
-      "2024-04-30": 261
+      "2024-04-30": 255
     }
   },
   {
@@ -603,7 +603,7 @@
     "timeMonth": 187,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-17": 938,
+      "2024-05-17": 944,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -678,7 +678,7 @@
     "timeMonth": 187,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-17": 938,
+      "2024-05-17": 944,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -873,8 +873,8 @@
     "status": "down",
     "uptime": "98.17%",
     "uptimeDay": "46.64%",
-    "uptimeWeek": "56.89%",
-    "uptimeMonth": "82.19%",
+    "uptimeWeek": "56.83%",
+    "uptimeMonth": "82.18%",
     "uptimeYear": "98.17%",
     "time": 182,
     "timeDay": 123,
@@ -882,7 +882,7 @@
     "timeMonth": 188,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-05-17": 613,
+      "2024-05-17": 619,
       "2024-05-16": 497,
       "2024-05-15": 450,
       "2024-05-14": 535,
