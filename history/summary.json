@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "brivo-login-working-on-sandbox-workspaces",
     "status": "down",
-    "uptime": "43.23%",
+    "uptime": "43.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.23%",
+    "uptimeYear": "43.22%",
     "time": 155,
     "timeDay": 161,
     "timeWeek": 150,
     "timeMonth": 202,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-05-23": 547,
+      "2024-05-23": 572,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -370,15 +370,15 @@
     "url": "https://connect.getseam.com/health/service/august.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "august-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "75.74%",
+    "status": "down",
+    "uptime": "97.38%",
+    "uptimeDay": "75.72%",
     "uptimeWeek": "85.50%",
-    "uptimeMonth": "75.10%",
-    "uptimeYear": "97.37%",
+    "uptimeMonth": "75.12%",
+    "uptimeYear": "97.38%",
     "time": 168,
-    "timeDay": 125,
-    "timeWeek": 131,
+    "timeDay": 124,
+    "timeWeek": 130,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -413,7 +413,7 @@
       "2024-04-23": 1064,
       "2024-04-22": 66,
       "2024-04-19": 210,
-      "2024-04-18": 81
+      "2024-04-18": 25
     }
   },
   {
@@ -490,12 +490,12 @@
     "url": "https://connect.getseam.com/health/service/schlage.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "schlage-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "71.00%",
-    "uptimeWeek": "74.00%",
-    "uptimeMonth": "84.43%",
-    "uptimeYear": "98.43%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "72.66%",
+    "uptimeWeek": "74.03%",
+    "uptimeMonth": "84.57%",
+    "uptimeYear": "98.45%",
     "time": 163,
     "timeDay": 109,
     "timeWeek": 200,
@@ -516,7 +516,7 @@
       "2024-05-10": 555,
       "2024-05-09": 581,
       "2024-05-08": 616,
-      "2024-05-07": 188
+      "2024-05-07": 128
     }
   },
   {
@@ -524,16 +524,16 @@
     "url": "https://connect.getseam.com/health/service/doorking.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "doorking-login-working-on-sandbox-workspaces",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "91.60%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "91.71%",
     "uptimeMonth": "88.96%",
     "uptimeYear": "98.54%",
     "time": 171,
-    "timeDay": 119,
-    "timeWeek": 269,
-    "timeMonth": 212,
+    "timeDay": 118,
+    "timeWeek": 270,
+    "timeMonth": 211,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2024-05-23": 9,
@@ -575,7 +575,7 @@
       "2024-04-10": 37,
       "2024-04-09": 31,
       "2024-04-08": 109,
-      "2024-04-05": 18
+      "2024-04-05": 6
     }
   },
   {
@@ -595,7 +595,7 @@
     "timeMonth": 192,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-05-23": 548,
+      "2024-05-23": 572,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -676,7 +676,7 @@
     "timeMonth": 174,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-23": 548,
+      "2024-05-23": 572,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -874,14 +874,14 @@
     "url": "https://connect.getseam.com/health/service/smartthings.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "smart-things-login-working-on-sandbox-workspaces",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "64.41%",
-    "uptimeWeek": "75.33%",
-    "uptimeMonth": "85.48%",
+    "uptimeDay": "64.38%",
+    "uptimeWeek": "75.35%",
+    "uptimeMonth": "85.50%",
     "uptimeYear": "98.54%",
     "time": 178,
-    "timeDay": 92,
+    "timeDay": 93,
     "timeWeek": 108,
     "timeMonth": 178,
     "timeYear": 178,
@@ -899,8 +899,7 @@
       "2024-05-13": 210,
       "2024-05-12": 1344,
       "2024-05-11": 478,
-      "2024-05-10": 562,
-      "2024-05-09": 6
+      "2024-05-10": 562
     }
   },
   {
