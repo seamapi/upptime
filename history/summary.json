@@ -37,7 +37,7 @@
     "timeMonth": 208,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-05-25": 184,
+      "2024-05-25": 194,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -481,16 +481,16 @@
     "url": "https://connect.getseam.com/health/service/schlage.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "schlage-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "63.34%",
-    "uptimeWeek": "73.55%",
-    "uptimeMonth": "85.15%",
-    "uptimeYear": "98.51%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "63.32%",
+    "uptimeWeek": "73.62%",
+    "uptimeMonth": "85.30%",
+    "uptimeYear": "98.53%",
     "time": 161,
-    "timeDay": 120,
+    "timeDay": 119,
     "timeWeek": 124,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2024-05-25": 8,
@@ -507,7 +507,7 @@
       "2024-05-13": 1070,
       "2024-05-11": 81,
       "2024-05-10": 555,
-      "2024-05-09": 147
+      "2024-05-09": 81
     }
   },
   {
@@ -582,7 +582,7 @@
     "timeMonth": 194,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-05-25": 185,
+      "2024-05-25": 194,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -665,7 +665,7 @@
     "timeMonth": 165,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-25": 185,
+      "2024-05-25": 194,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -867,9 +867,9 @@
     "slug": "smart-things-login-working-on-sandbox-workspaces",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "67.98%",
-    "uptimeWeek": "77.84%",
-    "uptimeMonth": "90.74%",
+    "uptimeDay": "67.34%",
+    "uptimeWeek": "77.76%",
+    "uptimeMonth": "90.72%",
     "uptimeYear": "99.07%",
     "time": 176,
     "timeDay": 93,
@@ -877,7 +877,7 @@
     "timeMonth": 173,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2024-05-25": 50,
+      "2024-05-25": 59,
       "2024-05-24": 448,
       "2024-05-23": 561,
       "2024-05-22": 404,
