@@ -37,7 +37,7 @@
     "timeMonth": 204,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-05-26": 268,
+      "2024-05-26": 281,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -373,18 +373,19 @@
     "url": "https://connect.getseam.com/health/service/august.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "august-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "85.71%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "85.70%",
     "uptimeWeek": "83.76%",
-    "uptimeMonth": "84.70%",
-    "uptimeYear": "98.48%",
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "98.51%",
     "time": 167,
-    "timeDay": 210,
+    "timeDay": 203,
     "timeWeek": 133,
     "timeMonth": 163,
     "timeYear": 167,
     "dailyMinutesDown": {
+      "2024-05-26": 0,
       "2024-05-25": 224,
       "2024-05-24": 264,
       "2024-05-23": 461,
@@ -405,7 +406,7 @@
       "2024-05-06": 138,
       "2024-05-05": 249,
       "2024-05-04": 95,
-      "2024-05-03": 283
+      "2024-05-03": 130
     }
   },
   {
@@ -577,7 +578,7 @@
     "timeMonth": 185,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-05-26": 269,
+      "2024-05-26": 282,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -661,7 +662,7 @@
     "timeMonth": 160,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-26": 269,
+      "2024-05-26": 282,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
