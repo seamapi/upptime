@@ -37,7 +37,7 @@
     "timeMonth": 204,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-05-26": 774,
+      "2024-05-26": 781,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -373,15 +373,15 @@
     "url": "https://connect.getseam.com/health/service/august.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "august-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "90.05%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "90.04%",
     "uptimeWeek": "83.25%",
-    "uptimeMonth": "85.21%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "85.45%",
+    "uptimeYear": "98.55%",
     "time": 166,
-    "timeDay": 190,
-    "timeWeek": 131,
+    "timeDay": 184,
+    "timeWeek": 130,
     "timeMonth": 162,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -404,9 +404,7 @@
       "2024-05-08": 480,
       "2024-05-07": 98,
       "2024-05-06": 138,
-      "2024-05-05": 249,
-      "2024-05-04": 95,
-      "2024-05-03": 11
+      "2024-05-05": 249
     }
   },
   {
@@ -418,7 +416,7 @@
     "uptime": "98.86%",
     "uptimeDay": "87.86%",
     "uptimeWeek": "90.23%",
-    "uptimeMonth": "91.89%",
+    "uptimeMonth": "91.90%",
     "uptimeYear": "98.86%",
     "time": 153,
     "timeDay": 87,
@@ -476,7 +474,7 @@
     "slug": "schlage-login-working-on-sandbox-workspaces",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "72.11%",
+    "uptimeDay": "72.54%",
     "uptimeWeek": "71.61%",
     "uptimeMonth": "88.40%",
     "uptimeYear": "98.85%",
@@ -570,7 +568,7 @@
     "timeMonth": 185,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-05-26": 775,
+      "2024-05-26": 781,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -654,7 +652,7 @@
     "timeMonth": 160,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-26": 775,
+      "2024-05-26": 781,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
