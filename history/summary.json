@@ -37,7 +37,7 @@
     "timeMonth": 199,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-05-27": 20,
+      "2024-05-27": 27,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -413,18 +413,19 @@
     "url": "https://connect.getseam.com/health/service/linear.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "linear-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "89.02%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "89.00%",
     "uptimeWeek": "89.55%",
     "uptimeMonth": "91.80%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 153,
-    "timeDay": 128,
+    "timeDay": 127,
     "timeWeek": 117,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 153,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-05-26": 158,
       "2024-05-25": 85,
       "2024-05-24": 152,
@@ -463,8 +464,7 @@
       "2024-04-11": 153,
       "2024-04-10": 110,
       "2024-04-09": 15,
-      "2024-04-07": 114,
-      "2024-04-06": 9
+      "2024-04-07": 114
     }
   },
   {
@@ -474,7 +474,7 @@
     "slug": "schlage-login-working-on-sandbox-workspaces",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "68.14%",
+    "uptimeDay": "68.55%",
     "uptimeWeek": "69.64%",
     "uptimeMonth": "89.06%",
     "uptimeYear": "98.91%",
@@ -502,18 +502,19 @@
     "url": "https://connect.getseam.com/health/service/doorking.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "doorking-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "91.05%",
-    "uptimeWeek": "89.42%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "89.41%",
     "uptimeMonth": "88.67%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.73%",
     "time": 166,
     "timeDay": 106,
-    "timeWeek": 205,
-    "timeMonth": 197,
+    "timeWeek": 204,
+    "timeMonth": 196,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-05-26": 149,
       "2024-05-25": 47,
       "2024-05-24": 141,
@@ -545,8 +546,7 @@
       "2024-04-24": 150,
       "2024-04-23": 44,
       "2024-04-21": 12,
-      "2024-04-20": 204,
-      "2024-04-19": 41
+      "2024-04-20": 172
     }
   },
   {
@@ -566,7 +566,7 @@
     "timeMonth": 185,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-05-27": 20,
+      "2024-05-27": 27,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -651,7 +651,7 @@
     "timeMonth": 160,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-05-27": 20,
+      "2024-05-27": 27,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
