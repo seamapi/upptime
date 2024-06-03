@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/akuvox.sandbox.login
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2024-06-03T10:13:55.082Z
+status: down
+code: 503
+responseTime: 151
+lastUpdated: 2024-06-03T11:22:46.066Z
 startTime: Tue Jul 25 2023 22:58:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
