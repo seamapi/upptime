@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/genie.sandbox.login
-status: down
-code: 503
-responseTime: 98
-lastUpdated: 2024-06-04T21:41:33.463Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2024-06-04T22:41:10.105Z
 startTime: Tue Jul 25 2023 22:58:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
