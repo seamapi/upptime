@@ -1,7 +1,7 @@
 url: https://connect.getseam.com/health/service/schlage.sandbox.login
-status: down
-code: 503
-responseTime: 39
-lastUpdated: 2024-06-06T16:19:52.801Z
+status: up
+code: 200
+responseTime: 130
+lastUpdated: 2024-06-06T16:37:00.444Z
 startTime: Tue Jul 25 2023 22:58:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
