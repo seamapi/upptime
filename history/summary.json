@@ -37,7 +37,7 @@
     "timeMonth": 153,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-06-17": 1318,
+      "2024-06-17": 1326,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -397,14 +397,14 @@
     "url": "https://connect.getseam.com/health/service/august.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "august-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "91.65%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "91.63%",
     "uptimeWeek": "85.20%",
-    "uptimeMonth": "84.19%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "84.50%",
+    "uptimeYear": "98.56%",
     "time": 156,
-    "timeDay": 114,
+    "timeDay": 113,
     "timeWeek": 104,
     "timeMonth": 129,
     "timeYear": 156,
@@ -425,7 +425,7 @@
       "2024-06-04": 918,
       "2024-06-03": 1066,
       "2024-06-02": 1051,
-      "2024-06-01": 148
+      "2024-06-01": 10
     }
   },
   {
@@ -473,7 +473,7 @@
     "status": "up",
     "uptime": "98.83%",
     "uptimeDay": "74.75%",
-    "uptimeWeek": "68.96%",
+    "uptimeWeek": "69.04%",
     "uptimeMonth": "87.38%",
     "uptimeYear": "98.83%",
     "time": 155,
@@ -551,7 +551,7 @@
     "timeMonth": 135,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-06-17": 1318,
+      "2024-06-17": 1326,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -657,7 +657,7 @@
     "timeMonth": 174,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-06-17": 1318,
+      "2024-06-17": 1326,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -884,19 +884,19 @@
     "url": "https://connect.getseam.com/health/service/smartthings.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "smart-things-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "67.92%",
-    "uptimeWeek": "58.66%",
-    "uptimeMonth": "85.33%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "67.88%",
+    "uptimeWeek": "58.73%",
+    "uptimeMonth": "85.45%",
+    "uptimeYear": "98.65%",
     "time": 178,
-    "timeDay": 102,
+    "timeDay": 103,
     "timeWeek": 212,
     "timeMonth": 167,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-06-17": 461,
+      "2024-06-17": 462,
       "2024-06-16": 357,
       "2024-06-15": 878,
       "2024-06-14": 763,
@@ -906,7 +906,7 @@
       "2024-06-10": 352,
       "2024-06-09": 938,
       "2024-06-08": 513,
-      "2024-06-07": 567
+      "2024-06-07": 511
     }
   },
   {
