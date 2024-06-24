@@ -37,7 +37,7 @@
     "timeMonth": 141,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-06-24": 796,
+      "2024-06-24": 805,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -442,16 +442,16 @@
     "url": "https://connect.getseam.com/health/service/linear.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "linear-login-working-on-sandbox-workspaces",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "52.61%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "52.57%",
     "uptimeWeek": "87.59%",
-    "uptimeMonth": "83.30%",
-    "uptimeYear": "98.48%",
+    "uptimeMonth": "83.36%",
+    "uptimeYear": "98.49%",
     "time": 147,
-    "timeDay": 102,
-    "timeWeek": 108,
-    "timeMonth": 134,
+    "timeDay": 91,
+    "timeWeek": 106,
+    "timeMonth": 133,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2024-06-24": 366,
@@ -476,7 +476,7 @@
       "2024-06-05": 943,
       "2024-06-04": 486,
       "2024-06-03": 1033,
-      "2024-06-02": 828
+      "2024-06-02": 804
     }
   },
   {
@@ -486,7 +486,7 @@
     "slug": "schlage-login-working-on-sandbox-workspaces",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "92.49%",
+    "uptimeDay": "93.13%",
     "uptimeWeek": "71.87%",
     "uptimeMonth": "87.36%",
     "uptimeYear": "98.85%",
@@ -569,7 +569,7 @@
     "timeMonth": 110,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-06-24": 796,
+      "2024-06-24": 806,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -682,7 +682,7 @@
     "timeMonth": 166,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-06-24": 796,
+      "2024-06-24": 806,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
