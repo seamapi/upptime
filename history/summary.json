@@ -37,7 +37,7 @@
     "timeMonth": 132,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-06-28": 837,
+      "2024-06-28": 844,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -408,15 +408,15 @@
     "url": "https://connect.getseam.com/health/service/august.sandbox.login",
     "icon": "https://icons.duckduckgo.com/ip3/connect.getseam.com.ico",
     "slug": "august-login-working-on-sandbox-workspaces",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "71.40%",
+    "uptimeDay": "71.88%",
     "uptimeWeek": "78.24%",
-    "uptimeMonth": "89.58%",
+    "uptimeMonth": "89.59%",
     "uptimeYear": "99.06%",
     "time": 151,
-    "timeDay": 198,
-    "timeWeek": 126,
+    "timeDay": 192,
+    "timeWeek": 125,
     "timeMonth": 126,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -435,7 +435,7 @@
       "2024-06-16": 253,
       "2024-06-15": 163,
       "2024-06-14": 429,
-      "2024-06-13": 216
+      "2024-06-13": 210
     }
   },
   {
@@ -445,7 +445,7 @@
     "slug": "linear-login-working-on-sandbox-workspaces",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "95.90%",
+    "uptimeDay": "96.41%",
     "uptimeWeek": "83.69%",
     "uptimeMonth": "85.62%",
     "uptimeYear": "98.71%",
@@ -577,7 +577,7 @@
     "timeMonth": 111,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-06-28": 837,
+      "2024-06-28": 844,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -694,7 +694,7 @@
     "timeMonth": 417,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-06-28": 837,
+      "2024-06-28": 845,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -934,9 +934,9 @@
     "slug": "smart-things-login-working-on-sandbox-workspaces",
     "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "59.50%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "87.87%",
+    "uptimeDay": "58.97%",
+    "uptimeWeek": "64.72%",
+    "uptimeMonth": "87.86%",
     "uptimeYear": "98.91%",
     "time": 176,
     "timeDay": 92,
@@ -944,7 +944,7 @@
     "timeMonth": 177,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2024-06-28": 331,
+      "2024-06-28": 338,
       "2024-06-27": 694,
       "2024-06-26": 532,
       "2024-06-25": 479,
